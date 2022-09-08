@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.github.pireba</groupId>
-	<artifactId>redmine</artifactId>
+	<artifactId>redminedownloader</artifactId>
 	<version>1.0</version>
 	<name>RedmineDownloader</name>
 	<description>This tools downloads every content from a Redmine.</description>
@@ -10,7 +10,7 @@
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<project.main>com.github.pireba.serviceportalbrementermin.Main</project.main>
+		<project.main>com.github.pireba.redminedownloader.Main</project.main>
 	</properties>
 	
 	<dependencies>
